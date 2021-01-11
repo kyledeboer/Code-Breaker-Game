@@ -16,5 +16,5 @@ Here are the first 2 "Guesses" for a player
 
 <img width="167" alt="Screen Shot 2021-01-10 at 5 12 00 PM" src="https://user-images.githubusercontent.com/75041872/104139218-2278a180-5367-11eb-98e3-1f4f7e23741c.png">
 
-(After 10 more incorrect guesses)
+(After 10 more incorrect guesses).\
 <img width="241" alt="Screen Shot 2021-01-10 at 5 16 28 PM" src="https://user-images.githubusercontent.com/75041872/104139282-a2067080-5367-11eb-921a-408582565ccf.png">
