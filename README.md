@@ -1,7 +1,7 @@
 # Code-Breaker-Game
 Digital version of the classic "Mastermind" board game.\
 The program randomly generates a code for the user to break, the user therefore plays against the computer.\
-GUI for the game is unfinished, game can be played on computer terminal.
+GUI for the game is unfinished, game can be played on computer terminal. To do this, comment out line 
 
 # Example:
 Here are the first 2 "Guesses" for a player
