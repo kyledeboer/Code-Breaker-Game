@@ -7,6 +7,7 @@ public class Player {
 	}
 	public int guess(int attempt) {
 		char guess[]=new char[5];
+		/////////////////////////
 		Scanner scan= new Scanner(System.in);
 		for(int i=0; i<5; i++) {
 			System.out.printf("Please enter color for slot %s", i+1);
