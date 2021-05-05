@@ -5,7 +5,7 @@ public class Board implements Color{
 	char theBoard[][];
     private char correctCombo[];
 	private char clues[][];
-	//private int attemptNo;
+	
 	
 	public Board() {
 		theBoard = new char[12][];
