@@ -18,7 +18,7 @@ public class Game {
 		while(attemptNo<12) {
 			int x=thePlayer.guess(attemptNo);
 			if(x!=0) {
-				System.out.print("\n\n XXXXXXXXX YOU WIN! XXXXXXXXX\n");
+				System.out.print("\n\n XXXXXXXXX YOU WIN!! XXXXXXXXX\n");
 				theBoard.printCorrectCode();
 				System.exit(1);
 			}
