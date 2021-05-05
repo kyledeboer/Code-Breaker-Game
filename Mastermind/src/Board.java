@@ -22,7 +22,6 @@ public class Board implements Color{
 		}
 		correctCombo= new char[5];
 		GenerateRandomCode();
-		
 	}
 	
 	private void GenerateRandomCode() {
