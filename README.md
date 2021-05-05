@@ -1,6 +1,6 @@
 # Code-Breaker-Game
 Digital version of the classic "Mastermind" board game.\
-The program randomly generates a code for the user to break, the user therefore plays against the computer.\
+The program randomly generates a code for the user to break, the user plays against the computer.\
 GUI for the game is unfinished, game can be played on computer terminal. To do this, comment out line 14 in the "Game" class.
 
 # Example:
